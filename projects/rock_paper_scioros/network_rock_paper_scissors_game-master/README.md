@@ -1,6 +1,3 @@
-# network_rock_paper_scissors_game
-This repository contains complete source codes for a network rock-paper-scissors game. See game session video here: https://youtu.be/-WJN1uhbUhw
-
 To run the application:
 
 1. Make sure you have python installed and setup on your system. App is tested on Python 2.7
